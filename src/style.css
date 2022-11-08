@@ -125,7 +125,7 @@ body {
 /* Hero section here */
 
 #hero {
-    background-image: url("src/img/process.png");
+    background-image: url("./img/process.png");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -315,14 +315,14 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("src/img/reverse.png");
+    background-image: url("./img/reverse.png");
     min-width: 580px;
     height: 50vh;
     background-position: center;
     padding: 30px;
 }
 #sm-banner .banner-box2 {
-    background-image: url("src/img/reverse.png");
+    background-image: url("./img/reverse.png");
 }
 
 #sm-banner h4 {
@@ -359,7 +359,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("src/img/process.png");
+    background-image: url("./img/process.png");
     min-width: 30%;
     height: 30vh;
     background-position: center;
@@ -382,7 +382,7 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("src/img/bg.jpg");
+    background-image: url("./img/bg.jpeg");
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
